@@ -6,7 +6,7 @@ Tips and tricks you can do to make Google Search return authentic seach results,
 
 --
 
-The minus (-) operator: Excludes webpages that have a term or terms you specify. 
+The minus ```-``` operator: Excludes webpages that have a term or terms you specify. 
 
 You can add multiple terms by adding quotation marks around the terms (eg. -"apple iphone").
 
