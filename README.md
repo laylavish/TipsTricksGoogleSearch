@@ -1,4 +1,4 @@
-# Tips & Tricks for Google Search to return authentic results
+# Tips & Tricks for Google Search to Return Authentic Results
 
 Tips and tricks you can do to make Google Search return authentic seach results, ya know, what you're **actually** looking for; eliminate AI results in your queries once and for all1
 
@@ -114,6 +114,8 @@ So what now? This is just for Google Search, what about social media sites like 
 Well, there is this extension called [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) which allows you to block YouTubers from appearing on your feed; meaning, you can go on an AI YouTuber block-spree and remove them forever. 
 
 Instagram and Twitter respectively have block features, so you can also go on a block-spree as well. Anything else that doesn't support blocking, use uBlock Origin.
+
+Check out my other repo that is a [huge AI site blocklist for uBlock Origin](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) if you want to go even further than Google Search operators!
 
 # Special thanks
 
