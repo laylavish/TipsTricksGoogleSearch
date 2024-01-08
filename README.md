@@ -73,11 +73,19 @@ They are only capable of describing their "artwork" via [borru tagging](https://
 
 So what we'll do is use their booru tagging against them. 
 
-We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. Attach ```-intext:"high detail"``` or another booru tag at the end to filter out more AI trash.
+We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. 
+
+Attach ```-intext:"high detail"``` or another booru tag at the end to filter out more AI trash.
 
 ### Query Limit
 
-Now, the query limit. Yes, there is a query limit. The limit is 32 words, which is not that much. So, don't go willy-nilly and try to spam tons of filter terms in Google Search to try to clean Google Search. As much as I want that to work, it unfortunately doesn't; so ya gotta be diligent with your query count. One way to bypass query count (kinda) is to use wildcards.
+Now, the query limit. Yes, there is a query limit. 
+
+The limit is 32 words, which is not that much. So, don't go willy-nilly and try to spam tons of filter terms in Google Search to try to clean Google Search. 
+
+> As much as I want that to work, it unfortunately doesn't; so ya gotta be diligent with your query count.
+
+One way to bypass query count (kinda) is to use wildcards.
 
 Wildcards don't use up the query count, whereas common words, known as stop words (eg. where, do, I for, a) do take up query count. So you can substitute wildcards for stopwords (since google discards stopwords unless quoated) and save query count.
 
