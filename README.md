@@ -114,3 +114,7 @@ So what now? This is just for Google Search, what about social media sites like 
 Well, there is this extension called [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) which allows you to block YouTubers from appearing on your feed; meaning, you can go on an AI YouTuber block-spree and remove them forever. 
 
 Instagram and Twitter respectively have block features, so you can also go on a block-spree as well. Anything else that doesn't support blocking, use uBlock Origin.
+
+# Special thanks
+
+Thanks are given to [Google Guide](https://www.googleguide.com/category/overview/index.html) for the awesome overview of Google Search operators.
