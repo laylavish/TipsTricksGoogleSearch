@@ -115,6 +115,7 @@ Well, there is this extension called [BlockTube](https://addons.mozilla.org/en-U
 
 Instagram and Twitter respectively have block features, so you can also go on a block-spree as well. Anything else that doesn't support blocking, use uBlock Origin.
 
+## Huge AI Site Blocklist Repo
 Check out my other repo that is a [huge AI site blocklist for uBlock Origin](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) if you want to go even further than Google Search operators!
 
 # Special thanks
