@@ -4,7 +4,8 @@ Tips and tricks you can do to make Google Search return authentic seach results,
 
 ## Quintessential Google Search Operators
 
---
+
+### Minus Operator
 
 The minus ```-``` operator: Excludes webpages that have a term or terms you specify. 
 
@@ -60,11 +61,17 @@ Those are what I believe to be the most essential Google Search operators, and t
 
 There are some stubborn sites that are in limbo in my [huge AI blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist). Take, for example, Pinterest.
 
-Pinterest is a legitimate site for viewing authentic artwork, reference, and sharing of ideas; unfortunately Pinterest is overrun by AI garbage, so instead of outright blocking Pinterest (if you want, Pinterest does exist in the nuclear section), we can block a lot of the AI garbage that exists when you do a Google Search with our handy dandy operators.
+Pinterest is a legitimate site for viewing authentic artwork, reference, and sharing of ideas; unfortunately Pinterest is overrun by AI garbage, so instead of outright blocking Pinterest, we can block a lot of the AI garbage that exists when you do a Google Search with our handy-dandy operators.
 
-Here's the thing: AI "artists" are not artists, therefore they are incapable of describing artwork. They are only capable of describing their "artwork" via borru tagging, which describes artwork in the most rudimentary way. That's why you'll see AI bros describe artwork with "high detail", "intricate details", "breath-taking", "captivating", "enchanting", "high quality", "beautiful", "cute (insert subject here)", etc. Take a look at Etsy (and Pinterest) if you don't believe me.
+Here's the thing: AI "artists" are not artists, therefore they are incapable of describing artwork. 
 
-So what we'll do is use their booru tagging against them. We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. I often append (-intext:"high detail") or another booru tag at the end to filter out more AI trash.
+They are only capable of describing their "artwork" via [borru tagging](https://danbooru.donmai.us/wiki_pages/howto:tag), which describes artwork in the most rudimentary way. That's why you'll see AI bros describe artwork with "high detail", "intricate details", "breath-taking", "captivating", "enchanting", "high quality", "beautiful", etc. Take a look at Etsy (and Pinterest) if you don't believe me.
+
+So what we'll do is use their booru tagging against them. 
+
+We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. Append ```-intext:"high detail"``` or another booru tag at the end to filter out more AI trash.
+
+-
 
 Now, the query limit. Yes, there is a query limit. The limit is 32 words, which is not that much. So, don't go willy-nilly and try to spam tons of filter terms in Google Search to try to clean Google Search. As much as I want that to work, it unfortunately doesn't; so ya gotta be diligent with your query count. One way to bypass query count (kinda) is to use wildcards.
 
