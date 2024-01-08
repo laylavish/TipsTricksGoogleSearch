@@ -1,6 +1,6 @@
 # Tips & Tricks for Google Search to Return Authentic Results
 
-Tips and tricks you can do to make Google Search return authentic seach results, ya know, what you're **actually** looking for; eliminate AI results in your queries once and for all1
+Tips and tricks you can do to make Google Search return authentic seach results, ya know, what you're **actually** looking for; eliminate AI results in your queries once and for all!
 
 
 ## Quintessential Google Search Operators
