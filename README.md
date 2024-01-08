@@ -15,31 +15,36 @@ For the purposes of removing AI content from queries, you can add these at the e
 
 --
 
-The site (site:) operator: Includes or excludes a website or domain you specify (eg. site:youtube.com -- will limit all results to the domain YouTube.com).
+The ```site:``` operator: Includes or excludes a website or domain you specify (eg. ```site:youtube.com``` -- will limit all results to the domain YouTube.com).
 
-You can add the minus (-) operator in front of the site (site:) operator to exclude sites you DON'T want to see (eg. -site:reddit.com). 
+You can add the minus ```-``` operator in front of the site (site:) operator to exclude sites you DON'T want to see (eg. ```-site:reddit.com```). 
 > This goes far beyond just naming sites, since you can also limit queries to have a domain extension of your choosing (eg. site:.com).
 
 Now, let's apply this to remove much of this AI filth.
 
 Limiting the query to only have .com will remove a lot of the AI garbage, since a lot of AI sites use domains that end in .ai, .art, .co, .xyz, etc. 
 
-In your query, add (site:.com) at the very end of your query to remove AI sites that use .ai, .art, .co, etc top level domains.
+In your query, add ```site:.com``` at the very end of your query to remove AI sites that use .ai, .art, .co, etc top level domains.
 
 --
 
-The quotation marks ("") operator: Searches for webpages that include the EXACT term or terms you specify; will not perform automatic stemming of phrases (eg. "run" will not search for "running", "ran", etc).
+The quotation marks ```""``` operator: Searches for webpages that include the EXACT term or terms you specify; will not perform automatic stemming of phrases (eg. "run" will not search for "running", "ran", etc).
 
-> Using quotation marks is very useful if you are looking for an exact term or phrase within a webpage (eg. "anime" digital art).
+> Using quotation marks is very useful if you are looking for an exact term or phrase within a webpage (eg. ```"anime" digital art```).
 
-Can also be used in conjunction with the minus (-) operator to exclude multiple words or phrases from appearing in your queries (eg. -"midjourney art").
+Can also be used in conjunction with the minus ```-``` operator to exclude multiple words or phrases from appearing in your queries (eg. ```-"midjourney art"```).
 
-Quotation marks can also be used for other operators as well, such as: intext; intitle; allintext; allintitle; etc.
+Quotation marks can also be used for other operators as well, such as: ```intext```; ```intitle```; ```allintext```; ```allintitle```; etc.
 
 -- 
 
-The before (before:) and after (after:) operator: Includes or excludes results before or after user specified dates (eg. before:2022, or after:2022).
+The ```before:``` and ```after:``` operator: Includes or excludes results before or after user specified dates (eg. before:2022, or after:2022).
 
 Can be useful if you are looking for authentic artwork before this AI ordeal. 
 
-Append before:2022 to the end of your query to achieve authentic results.
+Append ```before:2022``` to the end of your query to achieve authentic results.
+
+-- 
+
+The ```intext``` operator: Searches for webpages that include the term(s) you specify that exist in their content (eg. intext:animation); similar to the quotation marks operator.
+
