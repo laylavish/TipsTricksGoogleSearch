@@ -2,8 +2,8 @@
 
 Tips and tricks you can do to make Google Search return authentic seach results, ya know, what you're **actually** looking for; eliminate AI results in your queries once and for all1
 
-## Quintessential Google Search Operators
 
+## Quintessential Google Search Operators
 
 ### Minus Operator
 
@@ -87,18 +87,30 @@ The limit is 32 words, which is not that much. So, don't go willy-nilly and try 
 
 One way to bypass query count (kinda) is to use wildcards.
 
-Wildcards don't use up the query count, whereas common words, known as stop words (eg. where, do, I for, a) do take up query count. So you can substitute wildcards for stopwords (since google discards stopwords unless quoated) and save query count.
+Wildcards don't use up the query count, whereas common words, known as stop words (eg. where, do, I for, a) do take up query count. So, you can substitute wildcards ```*``` for stopwords (since google discards stopwords unless quoted) and save query count.
 
-Now, for more obscure tips. You can limit the query to give you results from a specific region, which is only available by using advanced search.
+## Limit Results to a Specific Region
 
-In the bottom right or top right of Google, there should be a settings icon or settings title. Click on it, then click on advanced search. Now you can narrow you results by a region that you select. I often limit the region to United States, since it removes a lot of Chinese AI "art" and AI discussion boards.
+You can limit the query to give you results from a specific region, which is only available by using advanced search.
 
-If you really wanna get down and dirty, you can use the filetype (filetype:) operator (also in advanced search) to limit the results by file type.
+In the bottom right or top right of Google, there should be a settings icon or ```settings``` title. Click on it, then click on advanced search.
 
-Why would you want to do this? Well, many AI sites use the file format Webp, which is a file type that has an efficient compression algorithm. Its whole purpose is to save server data.
+Now, you can narrow you results by a region that you select. I often limit the region to United States, since it removes a lot of Chinese AI "art" and AI discussion boards.
 
-AI sites use webp because of the amount of data being produced, so we can limit the file type to png to remove AI sites that use webp by typing (filetype:png). Although this helps, limiting the file type to jpg actually reduces AI queries even more, at the cost of lossy images (although that's not really a problem).
+## Limit Results by File Type
+
+If you really wanna get down and dirty, you can use the ```filetype:```operator (also available in advanced search) to limit the results by file type.
+
+Why would you want to do this? Well, many AI sites use the file format webp, which is a file type that has an efficient compression algorithm. Its whole purpose is to save server data.
+
+AI sites use webp because they produce so much data (AI spews out so much data very quickly), so we can limit the file type to ``png`` to remove AI sites that use webp by typing ```filetype:png```. Although this helps, limiting the file type to ```jpg``` actually reduces AI queries even more, at the cost of lossy images (lower quality images).
+
+## After That, Now What? 
 
 So, now you're up to speed on Google Search and can achieve authentic results like how the internet used to be before AI.
 
-So what now? This is just for Google Search, what about social media sites like YouTube? Well, there is this extension called BlockTube which allows you to block YouTubers from appearing on your feed; meaning, you can go on an AI YouTuber block-spree and remove them forever. Instagram and Twitter respectively have block features, so you can also go on a block-spree as well. Anything else that doesn't support blocking, use uBlock Origin.
+So what now? This is just for Google Search, what about social media sites like YouTube? 
+
+Well, there is this extension called [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) which allows you to block YouTubers from appearing on your feed; meaning, you can go on an AI YouTuber block-spree and remove them forever. 
+
+Instagram and Twitter respectively have block features, so you can also go on a block-spree as well. Anything else that doesn't support blocking, use uBlock Origin.
