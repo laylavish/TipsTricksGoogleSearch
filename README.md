@@ -16,7 +16,7 @@ For the purposes of removing AI content from queries, you can add these at the e
 
 The minus operator can be used in conjunction with any other operator.
 
---
+### Site Operator
 
 The ```site:``` operator: Includes or excludes a website or domain you specify (eg. site:youtube.com -- will limit all results to the domain YouTube.com).
 
@@ -29,7 +29,7 @@ Limiting the query to only have .com will remove a lot of the AI garbage, since 
 
 In your query, add ```site:.com``` at the very end of your query to remove AI sites that use .ai, .art, .co, etc top level domains.
 
---
+### Quotation Mark Operator
 
 The quotation marks ```""``` operator: Searches for webpages that include the EXACT term or terms you specify; will not perform automatic stemming of phrases (eg. "run" will not search for "running", "ran", etc).
 
@@ -39,7 +39,7 @@ Can also be used in conjunction with the minus ```-``` operator to exclude multi
 
 Quotation marks can also be used for other operators as well, such as: ```intext```; ```intitle```; ```allintext```; ```allintitle```; etc.
 
--- 
+### Before and After Operators
 
 The ```before:``` and ```after:``` operator: Includes or excludes results before or after user specified dates (eg. before:2022, or after:2022).
 
@@ -47,7 +47,7 @@ Can be useful if you are looking for authentic artwork before this AI ordeal.
 
 Append ```before:2022``` to the end of your query to achieve authentic results.
 
--- 
+### Intext Operator 
 
 The ```intext:``` operator: Searches for webpages that include the term(s) you specify that exist in their content (eg. intext:animation); similar to the quotation marks operator.
 
