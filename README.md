@@ -55,9 +55,8 @@ Useful for finding terms that exist within a page's content, such as inside para
 
 For removing AI garbage, I like to add ```-intext:lora``` towards the end of my query.
 
---
-
-Those are what I believe to be the most essential Google Search operators, and they are extremely useful. Now time for some tips and tricks.
+## Tips and Tricks
+### Borru Tagging
 
 There are some stubborn sites that are in limbo in my [huge AI blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist). Take, for example, Pinterest.
 
@@ -69,9 +68,9 @@ They are only capable of describing their "artwork" via [borru tagging](https://
 
 So what we'll do is use their booru tagging against them. 
 
-We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. Append ```-intext:"high detail"``` or another booru tag at the end to filter out more AI trash.
+We can input their most used tags, such as "high detail", to filter out the AI garbage you see on Pinterest. Attach ```-intext:"high detail"``` or another booru tag at the end to filter out more AI trash.
 
--
+### Query Limit
 
 Now, the query limit. Yes, there is a query limit. The limit is 32 words, which is not that much. So, don't go willy-nilly and try to spam tons of filter terms in Google Search to try to clean Google Search. As much as I want that to work, it unfortunately doesn't; so ya gotta be diligent with your query count. One way to bypass query count (kinda) is to use wildcards.
 
