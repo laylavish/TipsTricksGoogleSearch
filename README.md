@@ -32,7 +32,7 @@ The quotation marks ```""``` operator: Searches for webpages that include the EX
 
 > Using quotation marks is very useful if you are looking for an exact term or phrase within a webpage (eg. ```"anime" digital art```).
 
-Can also be used in conjunction with the minus ```-``` operator to exclude multiple words or phrases from appearing in your queries (eg. ```-"midjourney art"```).
+Can also be used in conjunction with the minus ```-``` operator to exclude multiple words or phrases from appearing in your queries (eg. -"midjourney art").
 
 Quotation marks can also be used for other operators as well, such as: ```intext```; ```intitle```; ```allintext```; ```allintitle```; etc.
 
