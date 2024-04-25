@@ -1,6 +1,6 @@
 # Tips & Tricks for Google Search to Return Authentic Results
 
-Tips and tricks you can do to make Google Search remove a lot of AI generated imagery.
+Tips and tricks you can do to make Google Search (and other search engines that have similar operators) remove a lot of AI generated imagery.
 
 ### Preliminary
 This is meant to be used in conjunction with my [huge AI blocklist for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist), as using this guide supplements where the blocklist fails (and the blocklist supplements where this guide fails), leading to near-perfect image authenticity. 
