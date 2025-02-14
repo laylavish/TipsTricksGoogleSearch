@@ -91,7 +91,7 @@ etc to clean up your results.
 
 There are some stubborn sites that are in limbo in my [huge AI blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist). Take, for example, Pinterest.
 
-Pinterest is a site for viewing authentic artwork, reference, and sharing of ideas; unfortunately Pinterest is overrun by AI garbage, so instead of outright blocking Pinterest, we can block a lot of the AI trash that exists we use our Search operators.
+Pinterest is a site for viewing authentic artwork, reference, and sharing of ideas; unfortunately Pinterest is overrun by AI garbage, so instead of outright blocking Pinterest, we can block a lot of the AI trash that exists with our Search operators.
 
 Here's the thing: AI "artists" are not artists, therefore they are incapable of describing artwork. 
 
